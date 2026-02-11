@@ -1,8 +1,11 @@
+import { useMemo, useState } from 'react';
 import type { ParsedOrder } from '../types';
 import LogisticsBadge from './LogisticsBadge';
 import StatusBadge from './StatusBadge';
 
 type Props = { orders: ParsedOrder[] };
+type SortDirection = 'asc' | 'desc';
+type SortKey = 'id' | 'customer' | 'reservation' | 'logistics' | 'message' | 'status' | 'total';
 
 function clp(value: number): string {
   return new Intl.NumberFormat('es-CL', {
@@ -13,6 +16,68 @@ function clp(value: number): string {
 }
 
 export default function OrdersTable({ orders }: Props) {
+  const [sortKey, setSortKey] = useState<SortKey>('reservation');
+  const [sortDirection, setSortDirection] = useState<SortDirection>('asc');
+
+  const sortedOrders = useMemo(() => {
+    const multiplier = sortDirection === 'asc' ? 1 : -1;
+    return [...orders].sort((a, b) => {
+      const byText = (left: string, right: string): number =>
+        left.localeCompare(right, 'es', { sensitivity: 'base', numeric: true });
+
+      let result = 0;
+      switch (sortKey) {
+        case 'id':
+          result = a.id - b.id;
+          break;
+        case 'customer':
+          result = byText(a.customerName, b.customerName);
+          break;
+        case 'reservation': {
+          const aTime = a.deliveryDate ? a.deliveryDate.getTime() : a.createdAt.getTime();
+          const bTime = b.deliveryDate ? b.deliveryDate.getTime() : b.createdAt.getTime();
+          result = aTime - bTime;
+          if (result === 0) {
+            result = byText(a.deliverySlot, b.deliverySlot);
+          }
+          break;
+        }
+        case 'logistics':
+          result = Number(a.isPickup) - Number(b.isPickup);
+          if (result === 0) {
+            result = byText(a.recipientName, b.recipientName);
+          }
+          break;
+        case 'message':
+          result = byText(`${a.notes} ${a.observation}`.trim(), `${b.notes} ${b.observation}`.trim());
+          break;
+        case 'status':
+          result = byText(a.status, b.status);
+          break;
+        case 'total':
+          result = a.total - b.total;
+          break;
+        default:
+          result = 0;
+      }
+      return result * multiplier;
+    });
+  }, [orders, sortDirection, sortKey]);
+
+  const handleSort = (key: SortKey) => {
+    if (sortKey === key) {
+      setSortDirection((prev) => (prev === 'asc' ? 'desc' : 'asc'));
+      return;
+    }
+    setSortKey(key);
+    setSortDirection(key === 'id' || key === 'total' ? 'desc' : 'asc');
+  };
+
+  const sortArrow = (key: SortKey): string => {
+    if (sortKey !== key) return '';
+    return sortDirection === 'asc' ? ' ▲' : ' ▼';
+  };
+
   if (orders.length === 0) {
     return <p className="hidden rounded-xl bg-white p-4 text-sm text-slate-500 shadow-soft md:block">No hay pedidos para estos filtros.</p>;
   }
@@ -31,17 +96,45 @@ export default function OrdersTable({ orders }: Props) {
         </colgroup>
         <thead className="bg-slate-50 text-xs uppercase tracking-wide text-slate-500">
           <tr>
-            <th className="px-4 py-3">Pedido</th>
-            <th className="px-4 py-3">Cliente</th>
-            <th className="px-4 py-3">Reserva</th>
-            <th className="px-4 py-3">Logística</th>
-            <th className="px-4 py-3">Mensaje y observaciones</th>
-            <th className="px-4 py-3">Estado</th>
-            <th className="px-4 py-3">Total</th>
+            <th className="px-4 py-3">
+              <button onClick={() => handleSort('id')} className="font-semibold hover:text-slate-700">
+                Pedido{sortArrow('id')}
+              </button>
+            </th>
+            <th className="px-4 py-3">
+              <button onClick={() => handleSort('customer')} className="font-semibold hover:text-slate-700">
+                Cliente{sortArrow('customer')}
+              </button>
+            </th>
+            <th className="px-4 py-3">
+              <button onClick={() => handleSort('reservation')} className="font-semibold hover:text-slate-700">
+                Reserva{sortArrow('reservation')}
+              </button>
+            </th>
+            <th className="px-4 py-3">
+              <button onClick={() => handleSort('logistics')} className="font-semibold hover:text-slate-700">
+                Logística{sortArrow('logistics')}
+              </button>
+            </th>
+            <th className="px-4 py-3">
+              <button onClick={() => handleSort('message')} className="font-semibold hover:text-slate-700">
+                Mensaje y observaciones{sortArrow('message')}
+              </button>
+            </th>
+            <th className="px-4 py-3">
+              <button onClick={() => handleSort('status')} className="font-semibold hover:text-slate-700">
+                Estado{sortArrow('status')}
+              </button>
+            </th>
+            <th className="px-4 py-3">
+              <button onClick={() => handleSort('total')} className="font-semibold hover:text-slate-700">
+                Total{sortArrow('total')}
+              </button>
+            </th>
           </tr>
         </thead>
         <tbody>
-          {orders.map((order) => {
+          {sortedOrders.map((order) => {
             const address = order.isPickup
               ? 'No aplica (retiro en local).'
               : order.deliveryAddress || 'Sin dirección de envío registrada.';
