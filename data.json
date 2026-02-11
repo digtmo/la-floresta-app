@@ -1,0 +1,3218 @@
+[
+    {
+        "id": 990634,
+        "parent_id": 0,
+        "status": "processing",
+        "currency": "CLP",
+        "version": "9.6.0",
+        "prices_include_tax": false,
+        "date_created": "2026-02-11T18:29:26",
+        "date_modified": "2026-02-11T18:31:59",
+        "discount_total": "0",
+        "discount_tax": "0",
+        "shipping_total": "4000",
+        "shipping_tax": "0",
+        "cart_tax": "0",
+        "total": "74000",
+        "total_tax": "0",
+        "customer_id": 0,
+        "order_key": "wc_order_J4ALnhWl8Z5DQ",
+        "billing": {
+            "first_name": "Luis Francisco Torres",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "email": "fco.luistorres@gmail.com",
+            "phone": "+56940862046"
+        },
+        "shipping": {
+            "first_name": "Gabriela Ot\u00e1rola",
+            "last_name": "",
+            "company": "",
+            "address_1": "Pasaje Ginebra 435, Pasado Vicku\u00f1a Mackena por San Mart\u00edn.",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "phone": ""
+        },
+        "payment_method": "transbank_webpay_plus_rest",
+        "payment_method_title": "Webpay Plus",
+        "transaction_id": "",
+        "customer_ip_address": "200.74.88.116",
+        "customer_user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 OPR\/126.0.0.0",
+        "created_via": "checkout",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": "2026-02-11T18:31:58",
+        "cart_hash": "eca909f2d986e379668e484fda42ba04",
+        "number": "990634",
+        "meta_data": [
+            {
+                "id": 34011,
+                "key": "_googlesitekit_ga_purchase_event_tracked",
+                "value": "1"
+            },
+            {
+                "id": 33984,
+                "key": "_orddd_lite_timeslot_timestamp",
+                "value": "1771059600"
+            },
+            {
+                "id": 33981,
+                "key": "_orddd_lite_timestamp",
+                "value": "1771027200"
+            },
+            {
+                "id": 33983,
+                "key": "_orddd_time_slot",
+                "value": "09:00 - 13:00"
+            },
+            {
+                "id": 34010,
+                "key": "_pys_purchase_event_fired",
+                "value": "1"
+            },
+            {
+                "id": 33974,
+                "key": "_shipping_mensaje",
+                "value": "Feliz San Valent\u00edn Amor. Saranghae!"
+            },
+            {
+                "id": 33975,
+                "key": "_shipping_observaciones",
+                "value": "Que se vea hermoso ese ramo. Es muy especial. Gracias!!!"
+            },
+            {
+                "id": 33973,
+                "key": "_shipping_telefono",
+                "value": "+56948053668"
+            },
+            {
+                "id": 33985,
+                "key": "_total_delivery_charges",
+                "value": "0"
+            },
+            {
+                "id": 33999,
+                "key": "_wc_order_attribution_device_type",
+                "value": "Desktop"
+            },
+            {
+                "id": 33991,
+                "key": "_wc_order_attribution_referrer",
+                "value": "https:\/\/www.google.com\/"
+            },
+            {
+                "id": 33997,
+                "key": "_wc_order_attribution_session_count",
+                "value": "1"
+            },
+            {
+                "id": 33994,
+                "key": "_wc_order_attribution_session_entry",
+                "value": "https:\/\/laflorestafloreria.cl\/"
+            },
+            {
+                "id": 33996,
+                "key": "_wc_order_attribution_session_pages",
+                "value": "12"
+            },
+            {
+                "id": 33995,
+                "key": "_wc_order_attribution_session_start_time",
+                "value": "2026-02-11 21:15:42"
+            },
+            {
+                "id": 33990,
+                "key": "_wc_order_attribution_source_type",
+                "value": "organic"
+            },
+            {
+                "id": 33998,
+                "key": "_wc_order_attribution_user_agent",
+                "value": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 OPR\/126.0.0.0"
+            },
+            {
+                "id": 33993,
+                "key": "_wc_order_attribution_utm_medium",
+                "value": "organic"
+            },
+            {
+                "id": 33992,
+                "key": "_wc_order_attribution_utm_source",
+                "value": "google"
+            },
+            {
+                "id": 34005,
+                "key": "amount",
+                "value": "74000"
+            },
+            {
+                "id": 34002,
+                "key": "authorizationCode",
+                "value": "315776"
+            },
+            {
+                "id": 34001,
+                "key": "buyOrder",
+                "value": "wc:9effc43571f73fbb:990634"
+            },
+            {
+                "id": 34003,
+                "key": "cardNumber",
+                "value": "5257"
+            },
+            {
+                "id": 33980,
+                "key": "Fecha de env\u00edo o retiro",
+                "value": "14 Febrero, 2026"
+            },
+            {
+                "id": 33982,
+                "key": "Horario de entrega",
+                "value": "09:00 AM - 01:00 PM"
+            },
+            {
+                "id": 34006,
+                "key": "installmentsNumber",
+                "value": "3"
+            },
+            {
+                "id": 33976,
+                "key": "is_vat_exempt",
+                "value": "no"
+            },
+            {
+                "id": 34004,
+                "key": "paymentType",
+                "value": "Cr\u00e9dito"
+            },
+            {
+                "id": 33979,
+                "key": "pys_enrich_data",
+                "value": {
+                    "pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "pys_source": "google.com",
+                    "pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "last_pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "last_pys_source": "google.com",
+                    "last_pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "last_pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "pys_browser_time": "18-19|Wednesday|February"
+                }
+            },
+            {
+                "id": 33986,
+                "key": "pys_fb_cookie",
+                "value": {
+                    "fbc": null,
+                    "fbp": "fb.1.1770844542596.2292667804"
+                }
+            },
+            {
+                "id": 33988,
+                "key": "shipping_mensaje",
+                "value": "Feliz San Valent\u00edn Amor. Saranghae!"
+            },
+            {
+                "id": 33989,
+                "key": "shipping_observaciones",
+                "value": "Que se vea hermoso ese ramo. Es muy especial. Gracias!!!"
+            },
+            {
+                "id": 33987,
+                "key": "shipping_telefono",
+                "value": "+56948053668"
+            },
+            {
+                "id": 34007,
+                "key": "transactionDate",
+                "value": "11-02-2026 18:29:27 -03:00"
+            },
+            {
+                "id": 34009,
+                "key": "transactionResponse",
+                "value": "{\"vci\":\"TSY\",\"status\":\"AUTHORIZED\",\"responseCode\":0,\"amount\":74000,\"authorizationCode\":\"315776\",\"paymentTypeCode\":\"VC\",\"accountingDate\":\"0211\",\"installmentsNumber\":3,\"installmentsAmount\":null,\"sessionId\":\"wc:sessionId:698cf4b6e1c21:990634\",\"buyOrder\":\"wc:9effc43571f73fbb:990634\",\"cardNumber\":\"5257\",\"cardDetail\":{\"card_number\":\"5257\"},\"transactionDate\":\"2026-02-11T21:29:27.577Z\",\"balance\":null}"
+            },
+            {
+                "id": 34000,
+                "key": "transactionStatus",
+                "value": "Autorizada"
+            },
+            {
+                "id": 34008,
+                "key": "webpay_transaction_id",
+                "value": "1387"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 1970,
+                "name": "Ramo Premium de rosas - 18 Rosas",
+                "product_id": 990521,
+                "variation_id": 990537,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "70000",
+                "subtotal_tax": "0",
+                "total": "70000",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [
+                    {
+                        "id": 24994,
+                        "key": "pa_select-size",
+                        "value": "18-rosas",
+                        "display_key": "Select size",
+                        "display_value": "18 Rosas"
+                    }
+                ],
+                "sku": "",
+                "price": 70000,
+                "image": {
+                    "id": 990522,
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2026\/02\/IMG_1422-scaled.jpeg"
+                },
+                "parent_name": "Ramo Premium de rosas"
+            }
+        ],
+        "tax_lines": [],
+        "shipping_lines": [
+            {
+                "id": 1971,
+                "method_title": "Los \u00c1ngeles: Zona urbana",
+                "method_id": "flat_rate",
+                "instance_id": "1",
+                "total": "4000",
+                "total_tax": "0",
+                "taxes": [],
+                "tax_status": "taxable",
+                "meta_data": [
+                    {
+                        "id": 25000,
+                        "key": "Art\u00edculos",
+                        "value": "Ramo Premium de rosas - 18 Rosas &times; 1",
+                        "display_key": "Art\u00edculos",
+                        "display_value": "Ramo Premium de rosas - 18 Rosas &times; 1"
+                    }
+                ]
+            }
+        ],
+        "fee_lines": [],
+        "coupon_lines": [],
+        "refunds": [],
+        "payment_url": "https:\/\/laflorestafloreria.cl\/checkout\/order-pay\/990634\/?pay_for_order=true&key=wc_order_J4ALnhWl8Z5DQ",
+        "is_editable": false,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2026-02-11T21:29:26",
+        "date_modified_gmt": "2026-02-11T21:31:59",
+        "date_completed_gmt": null,
+        "date_paid_gmt": "2026-02-11T21:31:58",
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders\/990634",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders"
+                }
+            ]
+        }
+    },
+    {
+        "id": 990633,
+        "parent_id": 0,
+        "status": "processing",
+        "currency": "CLP",
+        "version": "9.6.0",
+        "prices_include_tax": false,
+        "date_created": "2026-02-11T17:11:37",
+        "date_modified": "2026-02-11T17:12:10",
+        "discount_total": "0",
+        "discount_tax": "0",
+        "shipping_total": "0",
+        "shipping_tax": "0",
+        "cart_tax": "0",
+        "total": "30000",
+        "total_tax": "0",
+        "customer_id": 0,
+        "order_key": "wc_order_KEaOttrrZuHQ2",
+        "billing": {
+            "first_name": "Abel Cerna",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "email": "acerna66@gmail.com",
+            "phone": "+56982032385"
+        },
+        "shipping": {
+            "first_name": "Evelyn Valdebenito",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "phone": ""
+        },
+        "payment_method": "transbank_webpay_plus_rest",
+        "payment_method_title": "Webpay Plus",
+        "transaction_id": "",
+        "customer_ip_address": "186.11.16.32",
+        "customer_user_agent": "Mozilla\/5.0 (Linux; Android 11; SM-A705MN) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.164 Mobile Safari\/537.36",
+        "created_via": "checkout",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": "2026-02-11T17:12:10",
+        "cart_hash": "164f48a3855e7616b752e0f0ff25c631",
+        "number": "990633",
+        "meta_data": [
+            {
+                "id": 33972,
+                "key": "_billing_vat",
+                "value": ""
+            },
+            {
+                "id": 33957,
+                "key": "_orddd_lite_timeslot_timestamp",
+                "value": "1770973200"
+            },
+            {
+                "id": 33954,
+                "key": "_orddd_lite_timestamp",
+                "value": "1770940800"
+            },
+            {
+                "id": 33956,
+                "key": "_orddd_time_slot",
+                "value": "09:00 - 13:00"
+            },
+            {
+                "id": 33947,
+                "key": "_shipping_mensaje",
+                "value": "Que la vida te sonr\u00eda cada d\u00eda,espero que cada 14 de febrero sea junto a ti,eres lo m\u00e1s importante de mi vida,te amo mucho mi hermosa"
+            },
+            {
+                "id": 33948,
+                "key": "_shipping_observaciones",
+                "value": ""
+            },
+            {
+                "id": 33946,
+                "key": "_shipping_telefono",
+                "value": ""
+            },
+            {
+                "id": 33958,
+                "key": "_total_delivery_charges",
+                "value": "0"
+            },
+            {
+                "id": 33970,
+                "key": "_wc_order_attribution_device_type",
+                "value": "Mobile"
+            },
+            {
+                "id": 33962,
+                "key": "_wc_order_attribution_referrer",
+                "value": "https:\/\/www.google.com\/"
+            },
+            {
+                "id": 33968,
+                "key": "_wc_order_attribution_session_count",
+                "value": "1"
+            },
+            {
+                "id": 33965,
+                "key": "_wc_order_attribution_session_entry",
+                "value": "https:\/\/laflorestafloreria.cl\/"
+            },
+            {
+                "id": 33967,
+                "key": "_wc_order_attribution_session_pages",
+                "value": "7"
+            },
+            {
+                "id": 33966,
+                "key": "_wc_order_attribution_session_start_time",
+                "value": "2026-02-11 20:13:06"
+            },
+            {
+                "id": 33961,
+                "key": "_wc_order_attribution_source_type",
+                "value": "organic"
+            },
+            {
+                "id": 33969,
+                "key": "_wc_order_attribution_user_agent",
+                "value": "Mozilla\/5.0 (Linux; Android 11; SM-A705MN) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.164 Mobile Safari\/537.36"
+            },
+            {
+                "id": 33964,
+                "key": "_wc_order_attribution_utm_medium",
+                "value": "organic"
+            },
+            {
+                "id": 33963,
+                "key": "_wc_order_attribution_utm_source",
+                "value": "google"
+            },
+            {
+                "id": 33953,
+                "key": "Fecha de env\u00edo o retiro",
+                "value": "13 Febrero, 2026"
+            },
+            {
+                "id": 33955,
+                "key": "Horario de entrega",
+                "value": "09:00 AM - 01:00 PM"
+            },
+            {
+                "id": 33949,
+                "key": "is_vat_exempt",
+                "value": "no"
+            },
+            {
+                "id": 33952,
+                "key": "pys_enrich_data",
+                "value": {
+                    "pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "pys_source": "google.com",
+                    "pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "last_pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "last_pys_source": "google.com",
+                    "last_pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "last_pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "pys_browser_time": "17-18|Wednesday|February"
+                }
+            },
+            {
+                "id": 33959,
+                "key": "pys_fb_cookie",
+                "value": {
+                    "fbc": null,
+                    "fbp": "fb.1.1770840787019.7731890448"
+                }
+            },
+            {
+                "id": 33960,
+                "key": "shipping_mensaje",
+                "value": "Que la vida te sonr\u00eda cada d\u00eda,espero que cada 14 de febrero sea junto a ti,eres lo m\u00e1s importante de mi vida,te amo mucho mi hermosa"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 1968,
+                "name": "Ramo Circular 14 F - S - 10 Varas",
+                "product_id": 990455,
+                "variation_id": 990533,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "30000",
+                "subtotal_tax": "0",
+                "total": "30000",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [
+                    {
+                        "id": 24978,
+                        "key": "pa_select-size",
+                        "value": "s-10-varas",
+                        "display_key": "Select size",
+                        "display_value": "S - 10 Varas"
+                    }
+                ],
+                "sku": "",
+                "price": 30000,
+                "image": {
+                    "id": 989239,
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2025\/06\/Diseno-sin-titulo.png"
+                },
+                "parent_name": "Ramo Circular 14 F"
+            }
+        ],
+        "tax_lines": [],
+        "shipping_lines": [
+            {
+                "id": 1969,
+                "method_title": "Retiro en local",
+                "method_id": "local_pickup",
+                "instance_id": "2",
+                "total": "0",
+                "total_tax": "0",
+                "taxes": [],
+                "tax_status": "taxable",
+                "meta_data": [
+                    {
+                        "id": 24984,
+                        "key": "Art\u00edculos",
+                        "value": "Ramo Circular 14 F - S - 10 Varas &times; 1",
+                        "display_key": "Art\u00edculos",
+                        "display_value": "Ramo Circular 14 F - S - 10 Varas &times; 1"
+                    }
+                ]
+            }
+        ],
+        "fee_lines": [],
+        "coupon_lines": [],
+        "refunds": [],
+        "payment_url": "https:\/\/laflorestafloreria.cl\/checkout\/order-pay\/990633\/?pay_for_order=true&key=wc_order_KEaOttrrZuHQ2",
+        "is_editable": false,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2026-02-11T20:11:37",
+        "date_modified_gmt": "2026-02-11T20:12:10",
+        "date_completed_gmt": null,
+        "date_paid_gmt": "2026-02-11T20:12:10",
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders\/990633",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders"
+                }
+            ]
+        }
+    },
+    {
+        "id": 990632,
+        "parent_id": 0,
+        "status": "processing",
+        "currency": "CLP",
+        "version": "9.6.0",
+        "prices_include_tax": false,
+        "date_created": "2026-02-11T16:44:01",
+        "date_modified": "2026-02-11T16:47:04",
+        "discount_total": "0",
+        "discount_tax": "0",
+        "shipping_total": "4000",
+        "shipping_tax": "0",
+        "cart_tax": "0",
+        "total": "34000",
+        "total_tax": "0",
+        "customer_id": 0,
+        "order_key": "wc_order_ha9YhSrv9kwof",
+        "billing": {
+            "first_name": "Phil Collins Fan Club",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "email": "csanzanacar@gmail.com",
+            "phone": "+56966039871"
+        },
+        "shipping": {
+            "first_name": "Francisca Uribe",
+            "last_name": "",
+            "company": "",
+            "address_1": "Lago Todos Los Santos 1606",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "phone": ""
+        },
+        "payment_method": "transbank_webpay_plus_rest",
+        "payment_method_title": "Webpay Plus",
+        "transaction_id": "",
+        "customer_ip_address": "181.42.31.231",
+        "customer_user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 OPR\/126.0.0.0",
+        "created_via": "checkout",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": "2026-02-11T16:46:08",
+        "cart_hash": "aa149c4b1688f072b28d6faddb84baba",
+        "number": "990632",
+        "meta_data": [
+            {
+                "id": 33944,
+                "key": "_googlesitekit_ga_purchase_event_tracked",
+                "value": "1"
+            },
+            {
+                "id": 33920,
+                "key": "_orddd_lite_timeslot_timestamp",
+                "value": "1771059600"
+            },
+            {
+                "id": 33917,
+                "key": "_orddd_lite_timestamp",
+                "value": "1771027200"
+            },
+            {
+                "id": 33919,
+                "key": "_orddd_time_slot",
+                "value": "09:00 - 13:00"
+            },
+            {
+                "id": 33943,
+                "key": "_pys_purchase_event_fired",
+                "value": "1"
+            },
+            {
+                "id": 33910,
+                "key": "_shipping_mensaje",
+                "value": "EST\u00c1S VIEJA FRANCISCA &lt;3 Feliz cumplea\u00f1os, fungi altruista, te queremos mucho que Dios te bendiga :)"
+            },
+            {
+                "id": 33911,
+                "key": "_shipping_observaciones",
+                "value": ""
+            },
+            {
+                "id": 33909,
+                "key": "_shipping_telefono",
+                "value": "+56994947890"
+            },
+            {
+                "id": 33921,
+                "key": "_total_delivery_charges",
+                "value": "0"
+            },
+            {
+                "id": 33932,
+                "key": "_wc_order_attribution_device_type",
+                "value": "Desktop"
+            },
+            {
+                "id": 33930,
+                "key": "_wc_order_attribution_session_count",
+                "value": "1"
+            },
+            {
+                "id": 33927,
+                "key": "_wc_order_attribution_session_entry",
+                "value": "https:\/\/laflorestafloreria.cl\/"
+            },
+            {
+                "id": 33929,
+                "key": "_wc_order_attribution_session_pages",
+                "value": "4"
+            },
+            {
+                "id": 33928,
+                "key": "_wc_order_attribution_session_start_time",
+                "value": "2026-02-11 18:59:16"
+            },
+            {
+                "id": 33925,
+                "key": "_wc_order_attribution_source_type",
+                "value": "typein"
+            },
+            {
+                "id": 33931,
+                "key": "_wc_order_attribution_user_agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 OPR\/126.0.0.0"
+            },
+            {
+                "id": 33926,
+                "key": "_wc_order_attribution_utm_source",
+                "value": "(direct)"
+            },
+            {
+                "id": 33938,
+                "key": "amount",
+                "value": "34000"
+            },
+            {
+                "id": 33935,
+                "key": "authorizationCode",
+                "value": "602272"
+            },
+            {
+                "id": 33934,
+                "key": "buyOrder",
+                "value": "wc:a8cdb8ad4529bd60:990632"
+            },
+            {
+                "id": 33936,
+                "key": "cardNumber",
+                "value": "1157"
+            },
+            {
+                "id": 33916,
+                "key": "Fecha de env\u00edo o retiro",
+                "value": "14 Febrero, 2026"
+            },
+            {
+                "id": 33918,
+                "key": "Horario de entrega",
+                "value": "09:00 AM - 01:00 PM"
+            },
+            {
+                "id": 33939,
+                "key": "installmentsNumber",
+                "value": "0"
+            },
+            {
+                "id": 33912,
+                "key": "is_vat_exempt",
+                "value": "no"
+            },
+            {
+                "id": 33937,
+                "key": "paymentType",
+                "value": "D\u00e9bito"
+            },
+            {
+                "id": 33915,
+                "key": "pys_enrich_data",
+                "value": {
+                    "pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "pys_source": "direct",
+                    "pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "last_pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "last_pys_source": "direct",
+                    "last_pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "last_pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "pys_browser_time": "16-17|Wednesday|February"
+                }
+            },
+            {
+                "id": 33922,
+                "key": "pys_fb_cookie",
+                "value": {
+                    "fbc": null,
+                    "fbp": "fb.1.1770836356915.7868206552"
+                }
+            },
+            {
+                "id": 33924,
+                "key": "shipping_mensaje",
+                "value": "EST\u00c1S VIEJA FRANCISCA &lt;3 Feliz cumplea\u00f1os, fungi altruista, te queremos mucho que Dios te bendiga :)"
+            },
+            {
+                "id": 33923,
+                "key": "shipping_telefono",
+                "value": "+56994947890"
+            },
+            {
+                "id": 33940,
+                "key": "transactionDate",
+                "value": "11-02-2026 16:44:01 -03:00"
+            },
+            {
+                "id": 33942,
+                "key": "transactionResponse",
+                "value": "{\"vci\":\"TSY\",\"status\":\"AUTHORIZED\",\"responseCode\":0,\"amount\":34000,\"authorizationCode\":\"602272\",\"paymentTypeCode\":\"VD\",\"accountingDate\":\"0211\",\"installmentsNumber\":0,\"installmentsAmount\":null,\"sessionId\":\"wc:sessionId:698cdc0114733:990632\",\"buyOrder\":\"wc:a8cdb8ad4529bd60:990632\",\"cardNumber\":\"1157\",\"cardDetail\":{\"card_number\":\"1157\"},\"transactionDate\":\"2026-02-11T19:44:01.626Z\",\"balance\":null}"
+            },
+            {
+                "id": 33933,
+                "key": "transactionStatus",
+                "value": "Autorizada"
+            },
+            {
+                "id": 33941,
+                "key": "webpay_transaction_id",
+                "value": "1385"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 1966,
+                "name": "Ramo Circular 14 F - S - 10 Varas",
+                "product_id": 990455,
+                "variation_id": 990533,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "30000",
+                "subtotal_tax": "0",
+                "total": "30000",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [
+                    {
+                        "id": 24962,
+                        "key": "pa_select-size",
+                        "value": "s-10-varas",
+                        "display_key": "Select size",
+                        "display_value": "S - 10 Varas"
+                    }
+                ],
+                "sku": "",
+                "price": 30000,
+                "image": {
+                    "id": 989239,
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2025\/06\/Diseno-sin-titulo.png"
+                },
+                "parent_name": "Ramo Circular 14 F"
+            }
+        ],
+        "tax_lines": [],
+        "shipping_lines": [
+            {
+                "id": 1967,
+                "method_title": "Los \u00c1ngeles: Zona urbana",
+                "method_id": "flat_rate",
+                "instance_id": "1",
+                "total": "4000",
+                "total_tax": "0",
+                "taxes": [],
+                "tax_status": "taxable",
+                "meta_data": [
+                    {
+                        "id": 24968,
+                        "key": "Art\u00edculos",
+                        "value": "Ramo Circular 14 F - S - 10 Varas &times; 1",
+                        "display_key": "Art\u00edculos",
+                        "display_value": "Ramo Circular 14 F - S - 10 Varas &times; 1"
+                    }
+                ]
+            }
+        ],
+        "fee_lines": [],
+        "coupon_lines": [],
+        "refunds": [],
+        "payment_url": "https:\/\/laflorestafloreria.cl\/checkout\/order-pay\/990632\/?pay_for_order=true&key=wc_order_ha9YhSrv9kwof",
+        "is_editable": false,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2026-02-11T19:44:01",
+        "date_modified_gmt": "2026-02-11T19:47:04",
+        "date_completed_gmt": null,
+        "date_paid_gmt": "2026-02-11T19:46:08",
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders\/990632",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders"
+                }
+            ]
+        }
+    },
+    {
+        "id": 990631,
+        "parent_id": 0,
+        "status": "processing",
+        "currency": "CLP",
+        "version": "9.6.0",
+        "prices_include_tax": false,
+        "date_created": "2026-02-11T16:31:00",
+        "date_modified": "2026-02-11T16:32:02",
+        "discount_total": "0",
+        "discount_tax": "0",
+        "shipping_total": "0",
+        "shipping_tax": "0",
+        "cart_tax": "0",
+        "total": "42000",
+        "total_tax": "0",
+        "customer_id": 0,
+        "order_key": "wc_order_0QXMtxzYk5wuU",
+        "billing": {
+            "first_name": "Juan pablo",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "email": "tentempie.la@gmail.com",
+            "phone": "+56964802926"
+        },
+        "shipping": {
+            "first_name": "Francisca Sanhueza",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "phone": ""
+        },
+        "payment_method": "transbank_webpay_plus_rest",
+        "payment_method_title": "Webpay Plus",
+        "transaction_id": "",
+        "customer_ip_address": "181.160.234.26",
+        "customer_user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/26.2 Mobile\/15E148 Safari\/604.1",
+        "created_via": "checkout",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": "2026-02-11T16:32:01",
+        "cart_hash": "0f3479fcf44a65f6894b7e19f308d653",
+        "number": "990631",
+        "meta_data": [
+            {
+                "id": 33907,
+                "key": "_googlesitekit_ga_purchase_event_tracked",
+                "value": "1"
+            },
+            {
+                "id": 33884,
+                "key": "_orddd_lite_timeslot_timestamp",
+                "value": "1770973200"
+            },
+            {
+                "id": 33881,
+                "key": "_orddd_lite_timestamp",
+                "value": "1770940800"
+            },
+            {
+                "id": 33883,
+                "key": "_orddd_time_slot",
+                "value": "09:00 - 13:00"
+            },
+            {
+                "id": 33906,
+                "key": "_pys_purchase_event_fired",
+                "value": "1"
+            },
+            {
+                "id": 33874,
+                "key": "_shipping_mensaje",
+                "value": "Feliz d\u00eda del enamorado, amada esposa"
+            },
+            {
+                "id": 33875,
+                "key": "_shipping_observaciones",
+                "value": ""
+            },
+            {
+                "id": 33873,
+                "key": "_shipping_telefono",
+                "value": ""
+            },
+            {
+                "id": 33885,
+                "key": "_total_delivery_charges",
+                "value": "0"
+            },
+            {
+                "id": 33895,
+                "key": "_wc_order_attribution_device_type",
+                "value": "Mobile"
+            },
+            {
+                "id": 33893,
+                "key": "_wc_order_attribution_session_count",
+                "value": "1"
+            },
+            {
+                "id": 33890,
+                "key": "_wc_order_attribution_session_entry",
+                "value": "https:\/\/laflorestafloreria.cl\/especial-14\/"
+            },
+            {
+                "id": 33892,
+                "key": "_wc_order_attribution_session_pages",
+                "value": "10"
+            },
+            {
+                "id": 33891,
+                "key": "_wc_order_attribution_session_start_time",
+                "value": "2026-02-11 19:01:33"
+            },
+            {
+                "id": 33888,
+                "key": "_wc_order_attribution_source_type",
+                "value": "typein"
+            },
+            {
+                "id": 33894,
+                "key": "_wc_order_attribution_user_agent",
+                "value": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/26.2 Mobile\/15E148 Safari\/604.1"
+            },
+            {
+                "id": 33889,
+                "key": "_wc_order_attribution_utm_source",
+                "value": "(direct)"
+            },
+            {
+                "id": 33901,
+                "key": "amount",
+                "value": "42000"
+            },
+            {
+                "id": 33898,
+                "key": "authorizationCode",
+                "value": "022114"
+            },
+            {
+                "id": 33897,
+                "key": "buyOrder",
+                "value": "wc:e6297bb8bef50a1b:990631"
+            },
+            {
+                "id": 33899,
+                "key": "cardNumber",
+                "value": "6006"
+            },
+            {
+                "id": 33880,
+                "key": "Fecha de env\u00edo o retiro",
+                "value": "13 Febrero, 2026"
+            },
+            {
+                "id": 33882,
+                "key": "Horario de entrega",
+                "value": "09:00 AM - 01:00 PM"
+            },
+            {
+                "id": 33902,
+                "key": "installmentsNumber",
+                "value": "0"
+            },
+            {
+                "id": 33876,
+                "key": "is_vat_exempt",
+                "value": "no"
+            },
+            {
+                "id": 33900,
+                "key": "paymentType",
+                "value": "D\u00e9bito"
+            },
+            {
+                "id": 33879,
+                "key": "pys_enrich_data",
+                "value": {
+                    "pys_landing": "https:\/\/laflorestafloreria.cl\/especial-14\/",
+                    "pys_source": "direct",
+                    "pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "last_pys_landing": "https:\/\/laflorestafloreria.cl\/especial-14\/",
+                    "last_pys_source": "direct",
+                    "last_pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "last_pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "pys_browser_time": "16-17|Wednesday|February"
+                }
+            },
+            {
+                "id": 33886,
+                "key": "pys_fb_cookie",
+                "value": {
+                    "fbc": null,
+                    "fbp": "fb.1.1770836493301.5776884288"
+                }
+            },
+            {
+                "id": 33887,
+                "key": "shipping_mensaje",
+                "value": "Feliz d\u00eda del enamorado, amada esposa"
+            },
+            {
+                "id": 33903,
+                "key": "transactionDate",
+                "value": "11-02-2026 16:31:00 -03:00"
+            },
+            {
+                "id": 33905,
+                "key": "transactionResponse",
+                "value": "{\"vci\":null,\"status\":\"AUTHORIZED\",\"responseCode\":0,\"amount\":42000,\"authorizationCode\":\"022114\",\"paymentTypeCode\":\"VD\",\"accountingDate\":\"0211\",\"installmentsNumber\":0,\"installmentsAmount\":null,\"sessionId\":\"wc:sessionId:698cd8f442875:990631\",\"buyOrder\":\"wc:e6297bb8bef50a1b:990631\",\"cardNumber\":\"6006\",\"cardDetail\":{\"card_number\":\"6006\"},\"transactionDate\":\"2026-02-11T19:31:00.912Z\",\"balance\":null}"
+            },
+            {
+                "id": 33896,
+                "key": "transactionStatus",
+                "value": "Autorizada"
+            },
+            {
+                "id": 33904,
+                "key": "webpay_transaction_id",
+                "value": "1384"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 1964,
+                "name": "Ramo Circular 14 F - M - 15 Varas",
+                "product_id": 990455,
+                "variation_id": 990532,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "42000",
+                "subtotal_tax": "0",
+                "total": "42000",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [
+                    {
+                        "id": 24946,
+                        "key": "pa_select-size",
+                        "value": "m-15-varas",
+                        "display_key": "Select size",
+                        "display_value": "M - 15 Varas"
+                    }
+                ],
+                "sku": "",
+                "price": 42000,
+                "image": {
+                    "id": 989239,
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2025\/06\/Diseno-sin-titulo.png"
+                },
+                "parent_name": "Ramo Circular 14 F"
+            }
+        ],
+        "tax_lines": [],
+        "shipping_lines": [
+            {
+                "id": 1965,
+                "method_title": "Retiro en local",
+                "method_id": "local_pickup",
+                "instance_id": "2",
+                "total": "0",
+                "total_tax": "0",
+                "taxes": [],
+                "tax_status": "taxable",
+                "meta_data": [
+                    {
+                        "id": 24952,
+                        "key": "Art\u00edculos",
+                        "value": "Ramo Circular 14 F - M - 15 Varas &times; 1",
+                        "display_key": "Art\u00edculos",
+                        "display_value": "Ramo Circular 14 F - M - 15 Varas &times; 1"
+                    }
+                ]
+            }
+        ],
+        "fee_lines": [],
+        "coupon_lines": [],
+        "refunds": [],
+        "payment_url": "https:\/\/laflorestafloreria.cl\/checkout\/order-pay\/990631\/?pay_for_order=true&key=wc_order_0QXMtxzYk5wuU",
+        "is_editable": false,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2026-02-11T19:31:00",
+        "date_modified_gmt": "2026-02-11T19:32:02",
+        "date_completed_gmt": null,
+        "date_paid_gmt": "2026-02-11T19:32:01",
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders\/990631",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders"
+                }
+            ]
+        }
+    },
+    {
+        "id": 990630,
+        "parent_id": 0,
+        "status": "processing",
+        "currency": "CLP",
+        "version": "9.6.0",
+        "prices_include_tax": false,
+        "date_created": "2026-02-11T14:56:41",
+        "date_modified": "2026-02-11T14:58:22",
+        "discount_total": "0",
+        "discount_tax": "0",
+        "shipping_total": "4000",
+        "shipping_tax": "0",
+        "cart_tax": "0",
+        "total": "34000",
+        "total_tax": "0",
+        "customer_id": 0,
+        "order_key": "wc_order_I4i0TMmqHdvKm",
+        "billing": {
+            "first_name": "Maritza",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "email": "magomezfu@gmail.com",
+            "phone": "+56982282541"
+        },
+        "shipping": {
+            "first_name": "Nidia fuentes",
+            "last_name": "",
+            "company": "",
+            "address_1": "Miriam concha 830",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "phone": ""
+        },
+        "payment_method": "transbank_webpay_plus_rest",
+        "payment_method_title": "Webpay Plus",
+        "transaction_id": "",
+        "customer_ip_address": "186.11.41.48",
+        "customer_user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/22H124 Instagram 414.0.0.23.79 (iPhone14,2; iOS 18_7_2; es_LA; es; scale=3.00; 1170x2532; IABMV\/1; 868652560) Safari\/604.1",
+        "created_via": "checkout",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": "2026-02-11T14:58:21",
+        "cart_hash": "aa149c4b1688f072b28d6faddb84baba",
+        "number": "990630",
+        "meta_data": [
+            {
+                "id": 33861,
+                "key": "_googlesitekit_ga_purchase_event_tracked",
+                "value": "1"
+            },
+            {
+                "id": 33836,
+                "key": "_orddd_lite_timeslot_timestamp",
+                "value": "1771232400"
+            },
+            {
+                "id": 33833,
+                "key": "_orddd_lite_timestamp",
+                "value": "1771200000"
+            },
+            {
+                "id": 33835,
+                "key": "_orddd_time_slot",
+                "value": "09:00 - 13:00"
+            },
+            {
+                "id": 33860,
+                "key": "_pys_purchase_event_fired",
+                "value": "1"
+            },
+            {
+                "id": 33826,
+                "key": "_shipping_mensaje",
+                "value": "Feliz cumplea\u00f1os mamita!!!! Que sea un hermoso d\u00eda!!! Te quiero mucho!!! Ya celebraremos todos juntos!!"
+            },
+            {
+                "id": 33827,
+                "key": "_shipping_observaciones",
+                "value": ""
+            },
+            {
+                "id": 33825,
+                "key": "_shipping_telefono",
+                "value": "945670548"
+            },
+            {
+                "id": 33837,
+                "key": "_total_delivery_charges",
+                "value": "0"
+            },
+            {
+                "id": 33849,
+                "key": "_wc_order_attribution_device_type",
+                "value": "Mobile"
+            },
+            {
+                "id": 33842,
+                "key": "_wc_order_attribution_referrer",
+                "value": "https:\/\/laflorestafloreria.cl\/especial-14\/"
+            },
+            {
+                "id": 33847,
+                "key": "_wc_order_attribution_session_count",
+                "value": "1"
+            },
+            {
+                "id": 33844,
+                "key": "_wc_order_attribution_session_entry",
+                "value": "https:\/\/laflorestafloreria.cl\/producto\/ramo-premium-de-rosas\/"
+            },
+            {
+                "id": 33846,
+                "key": "_wc_order_attribution_session_pages",
+                "value": "7"
+            },
+            {
+                "id": 33845,
+                "key": "_wc_order_attribution_session_start_time",
+                "value": "2026-02-11 17:52:15"
+            },
+            {
+                "id": 33841,
+                "key": "_wc_order_attribution_source_type",
+                "value": "typein"
+            },
+            {
+                "id": 33848,
+                "key": "_wc_order_attribution_user_agent",
+                "value": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/22H124 Instagram 414.0.0.23.79 (iPhone14,2; iOS 18_7_2; es_LA; es; scale=3.00; 1170x2532; IABMV\/1; 868652560) Safari\/604.1"
+            },
+            {
+                "id": 33843,
+                "key": "_wc_order_attribution_utm_source",
+                "value": "(direct)"
+            },
+            {
+                "id": 33855,
+                "key": "amount",
+                "value": "34000"
+            },
+            {
+                "id": 33852,
+                "key": "authorizationCode",
+                "value": "279187"
+            },
+            {
+                "id": 33851,
+                "key": "buyOrder",
+                "value": "wc:4d74f9b23d4fe91f:990630"
+            },
+            {
+                "id": 33853,
+                "key": "cardNumber",
+                "value": "8374"
+            },
+            {
+                "id": 33832,
+                "key": "Fecha de env\u00edo o retiro",
+                "value": "16 Febrero, 2026"
+            },
+            {
+                "id": 33834,
+                "key": "Horario de entrega",
+                "value": "09:00 AM - 01:00 PM"
+            },
+            {
+                "id": 33856,
+                "key": "installmentsNumber",
+                "value": "3"
+            },
+            {
+                "id": 33828,
+                "key": "is_vat_exempt",
+                "value": "no"
+            },
+            {
+                "id": 33854,
+                "key": "paymentType",
+                "value": "Cr\u00e9dito"
+            },
+            {
+                "id": 33831,
+                "key": "pys_enrich_data",
+                "value": {
+                    "pys_landing": "https:\/\/laflorestafloreria.cl\/producto\/ramo-premium-de-rosas\/",
+                    "pys_source": "direct",
+                    "pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "last_pys_landing": "https:\/\/laflorestafloreria.cl\/producto\/ramo-premium-de-rosas\/",
+                    "last_pys_source": "direct",
+                    "last_pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "last_pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "pys_browser_time": "14-15|Wednesday|February"
+                }
+            },
+            {
+                "id": 33838,
+                "key": "pys_fb_cookie",
+                "value": {
+                    "fbc": "fb.1.1770832335280.PAZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnFH8saXkdVo3TJY4Ga3C5BAyq5Jgq1KDXxVT88CjnbR__MVc-afO83SMwLyA_aem_EOPFzTqvWmBvVbDcDeCI7Q",
+                    "fbp": "fb.1.1770832335191.6097131489"
+                }
+            },
+            {
+                "id": 33840,
+                "key": "shipping_mensaje",
+                "value": "Feliz cumplea\u00f1os mamita!!!! Que sea un hermoso d\u00eda!!! Te quiero mucho!!! Ya celebraremos todos juntos!!"
+            },
+            {
+                "id": 33839,
+                "key": "shipping_telefono",
+                "value": "945670548"
+            },
+            {
+                "id": 33857,
+                "key": "transactionDate",
+                "value": "11-02-2026 14:56:42 -03:00"
+            },
+            {
+                "id": 33859,
+                "key": "transactionResponse",
+                "value": "{\"vci\":\"TSY\",\"status\":\"AUTHORIZED\",\"responseCode\":0,\"amount\":34000,\"authorizationCode\":\"279187\",\"paymentTypeCode\":\"VC\",\"accountingDate\":\"0211\",\"installmentsNumber\":3,\"installmentsAmount\":null,\"sessionId\":\"wc:sessionId:698cc2d994f97:990630\",\"buyOrder\":\"wc:4d74f9b23d4fe91f:990630\",\"cardNumber\":\"8374\",\"cardDetail\":{\"card_number\":\"8374\"},\"transactionDate\":\"2026-02-11T17:56:42.186Z\",\"balance\":null}"
+            },
+            {
+                "id": 33850,
+                "key": "transactionStatus",
+                "value": "Autorizada"
+            },
+            {
+                "id": 33858,
+                "key": "webpay_transaction_id",
+                "value": "1382"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 1962,
+                "name": "Ramo Circular 14 F - S - 10 Varas",
+                "product_id": 990455,
+                "variation_id": 990533,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "30000",
+                "subtotal_tax": "0",
+                "total": "30000",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [
+                    {
+                        "id": 24929,
+                        "key": "pa_select-size",
+                        "value": "s-10-varas",
+                        "display_key": "Select size",
+                        "display_value": "S - 10 Varas"
+                    }
+                ],
+                "sku": "",
+                "price": 30000,
+                "image": {
+                    "id": 989239,
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2025\/06\/Diseno-sin-titulo.png"
+                },
+                "parent_name": "Ramo Circular 14 F"
+            }
+        ],
+        "tax_lines": [],
+        "shipping_lines": [
+            {
+                "id": 1963,
+                "method_title": "Los \u00c1ngeles: Zona urbana",
+                "method_id": "flat_rate",
+                "instance_id": "1",
+                "total": "4000",
+                "total_tax": "0",
+                "taxes": [],
+                "tax_status": "taxable",
+                "meta_data": [
+                    {
+                        "id": 24935,
+                        "key": "Art\u00edculos",
+                        "value": "Ramo Circular 14 F - S - 10 Varas &times; 1",
+                        "display_key": "Art\u00edculos",
+                        "display_value": "Ramo Circular 14 F - S - 10 Varas &times; 1"
+                    }
+                ]
+            }
+        ],
+        "fee_lines": [],
+        "coupon_lines": [],
+        "refunds": [],
+        "payment_url": "https:\/\/laflorestafloreria.cl\/checkout\/order-pay\/990630\/?pay_for_order=true&key=wc_order_I4i0TMmqHdvKm",
+        "is_editable": false,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2026-02-11T17:56:41",
+        "date_modified_gmt": "2026-02-11T17:58:22",
+        "date_completed_gmt": null,
+        "date_paid_gmt": "2026-02-11T17:58:21",
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders\/990630",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders"
+                }
+            ]
+        }
+    },
+    {
+        "id": 990629,
+        "parent_id": 0,
+        "status": "processing",
+        "currency": "CLP",
+        "version": "9.6.0",
+        "prices_include_tax": false,
+        "date_created": "2026-02-11T14:52:27",
+        "date_modified": "2026-02-11T17:42:23",
+        "discount_total": "0",
+        "discount_tax": "0",
+        "shipping_total": "4000",
+        "shipping_tax": "0",
+        "cart_tax": "0",
+        "total": "54000",
+        "total_tax": "0",
+        "customer_id": 0,
+        "order_key": "wc_order_2jM5EmaX4BjSR",
+        "billing": {
+            "first_name": "Korall Corcuera",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "email": "korall.corcuera@gmail.com",
+            "phone": "999913170"
+        },
+        "shipping": {
+            "first_name": "Fabiola Osses",
+            "last_name": "",
+            "company": "",
+            "address_1": "Pasaje Roberto Matta 105, Parque Nativo",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "phone": ""
+        },
+        "payment_method": "transbank_webpay_plus_rest",
+        "payment_method_title": "Webpay Plus",
+        "transaction_id": "",
+        "customer_ip_address": "181.42.29.224",
+        "customer_user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Mobile Safari\/537.36",
+        "created_via": "checkout",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": "2026-02-11T15:02:30",
+        "cart_hash": "5adda05a3ac2692738a43c86cb9cda7a",
+        "number": "990629",
+        "meta_data": [
+            {
+                "id": 33824,
+                "key": "_googlesitekit_ga_purchase_event_tracked",
+                "value": "1"
+            },
+            {
+                "id": 33798,
+                "key": "_orddd_lite_timeslot_timestamp",
+                "value": "1770904800"
+            },
+            {
+                "id": 33795,
+                "key": "_orddd_lite_timestamp",
+                "value": "1770854400"
+            },
+            {
+                "id": 33797,
+                "key": "_orddd_time_slot",
+                "value": "14:00 - 19:00"
+            },
+            {
+                "id": 33823,
+                "key": "_pys_purchase_event_fired",
+                "value": "1"
+            },
+            {
+                "id": 33788,
+                "key": "_shipping_mensaje",
+                "value": "En este momento triste, te enviamos un abrazo apretado y mucho amor. Tus amigas viajeras"
+            },
+            {
+                "id": 33789,
+                "key": "_shipping_observaciones",
+                "value": ""
+            },
+            {
+                "id": 33787,
+                "key": "_shipping_telefono",
+                "value": "962467210"
+            },
+            {
+                "id": 33799,
+                "key": "_total_delivery_charges",
+                "value": "0"
+            },
+            {
+                "id": 33810,
+                "key": "_wc_order_attribution_device_type",
+                "value": "Mobile"
+            },
+            {
+                "id": 33808,
+                "key": "_wc_order_attribution_session_count",
+                "value": "1"
+            },
+            {
+                "id": 33805,
+                "key": "_wc_order_attribution_session_entry",
+                "value": "https:\/\/laflorestafloreria.cl\/especial-14\/"
+            },
+            {
+                "id": 33807,
+                "key": "_wc_order_attribution_session_pages",
+                "value": "10"
+            },
+            {
+                "id": 33806,
+                "key": "_wc_order_attribution_session_start_time",
+                "value": "2026-02-11 16:15:46"
+            },
+            {
+                "id": 33803,
+                "key": "_wc_order_attribution_source_type",
+                "value": "typein"
+            },
+            {
+                "id": 33809,
+                "key": "_wc_order_attribution_user_agent",
+                "value": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Mobile Safari\/537.36"
+            },
+            {
+                "id": 33804,
+                "key": "_wc_order_attribution_utm_source",
+                "value": "(direct)"
+            },
+            {
+                "id": 33867,
+                "key": "amount",
+                "value": "54000"
+            },
+            {
+                "id": 33864,
+                "key": "authorizationCode",
+                "value": "224783"
+            },
+            {
+                "id": 33863,
+                "key": "buyOrder",
+                "value": "wc:b699d52e5e94c8d0:990629"
+            },
+            {
+                "id": 33865,
+                "key": "cardNumber",
+                "value": "5275"
+            },
+            {
+                "id": 33794,
+                "key": "Fecha de env\u00edo o retiro",
+                "value": "12 Febrero, 2026"
+            },
+            {
+                "id": 33796,
+                "key": "Horario de entrega",
+                "value": "02:00 PM - 07:00 PM"
+            },
+            {
+                "id": 33868,
+                "key": "installmentsNumber",
+                "value": "0"
+            },
+            {
+                "id": 33790,
+                "key": "is_vat_exempt",
+                "value": "no"
+            },
+            {
+                "id": 33866,
+                "key": "paymentType",
+                "value": "D\u00e9bito"
+            },
+            {
+                "id": 33793,
+                "key": "pys_enrich_data",
+                "value": {
+                    "pys_landing": "https:\/\/laflorestafloreria.cl\/especial-14\/",
+                    "pys_source": "direct",
+                    "pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "last_pys_landing": "https:\/\/laflorestafloreria.cl\/especial-14\/",
+                    "last_pys_source": "direct",
+                    "last_pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "last_pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "pys_browser_time": "13-14|Wednesday|February"
+                }
+            },
+            {
+                "id": 33800,
+                "key": "pys_fb_cookie",
+                "value": {
+                    "fbc": null,
+                    "fbp": "fb.1.1770826546396.5448110764"
+                }
+            },
+            {
+                "id": 33802,
+                "key": "shipping_mensaje",
+                "value": "En este momento triste, te enviamos un abrazo apretado y mucho amor. Tus amigas viajeras"
+            },
+            {
+                "id": 33801,
+                "key": "shipping_telefono",
+                "value": "962467210"
+            },
+            {
+                "id": 33869,
+                "key": "transactionDate",
+                "value": "11-02-2026 15:00:41 -03:00"
+            },
+            {
+                "id": 33871,
+                "key": "transactionResponse",
+                "value": "{\"vci\":\"TSYF\",\"status\":\"AUTHORIZED\",\"responseCode\":0,\"amount\":54000,\"authorizationCode\":\"224783\",\"paymentTypeCode\":\"VD\",\"accountingDate\":\"0211\",\"installmentsNumber\":0,\"installmentsAmount\":null,\"sessionId\":\"wc:sessionId:698cc3c8d93f4:990629\",\"buyOrder\":\"wc:b699d52e5e94c8d0:990629\",\"cardNumber\":\"5275\",\"cardDetail\":{\"card_number\":\"5275\"},\"transactionDate\":\"2026-02-11T18:00:41.557Z\",\"balance\":null}"
+            },
+            {
+                "id": 33862,
+                "key": "transactionStatus",
+                "value": "Autorizada"
+            },
+            {
+                "id": 33870,
+                "key": "webpay_transaction_id",
+                "value": "1383"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 1960,
+                "name": "Caja Rose 14 F",
+                "product_id": 990529,
+                "variation_id": 0,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "50000",
+                "subtotal_tax": "0",
+                "total": "50000",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [
+                    {
+                        "id": 24936,
+                        "key": "_reduced_stock",
+                        "value": "1",
+                        "display_key": "_reduced_stock",
+                        "display_value": "1"
+                    }
+                ],
+                "sku": "",
+                "price": 50000,
+                "image": {
+                    "id": "988778",
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2025\/04\/11.png"
+                },
+                "parent_name": null
+            }
+        ],
+        "tax_lines": [],
+        "shipping_lines": [
+            {
+                "id": 1961,
+                "method_title": "Los \u00c1ngeles: Zona urbana",
+                "method_id": "flat_rate",
+                "instance_id": "1",
+                "total": "4000",
+                "total_tax": "0",
+                "taxes": [],
+                "tax_status": "taxable",
+                "meta_data": [
+                    {
+                        "id": 24919,
+                        "key": "Art\u00edculos",
+                        "value": "Caja Rose 14 F &times; 1",
+                        "display_key": "Art\u00edculos",
+                        "display_value": "Caja Rose 14 F &times; 1"
+                    }
+                ]
+            }
+        ],
+        "fee_lines": [],
+        "coupon_lines": [],
+        "refunds": [],
+        "payment_url": "https:\/\/laflorestafloreria.cl\/checkout\/order-pay\/990629\/?pay_for_order=true&key=wc_order_2jM5EmaX4BjSR",
+        "is_editable": false,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2026-02-11T17:52:27",
+        "date_modified_gmt": "2026-02-11T20:42:23",
+        "date_completed_gmt": null,
+        "date_paid_gmt": "2026-02-11T18:02:30",
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders\/990629",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders"
+                }
+            ]
+        }
+    },
+    {
+        "id": 990628,
+        "parent_id": 0,
+        "status": "processing",
+        "currency": "CLP",
+        "version": "9.6.0",
+        "prices_include_tax": false,
+        "date_created": "2026-02-11T14:50:11",
+        "date_modified": "2026-02-11T14:51:47",
+        "discount_total": "0",
+        "discount_tax": "0",
+        "shipping_total": "0",
+        "shipping_tax": "0",
+        "cart_tax": "0",
+        "total": "44990",
+        "total_tax": "0",
+        "customer_id": 0,
+        "order_key": "wc_order_y65sZhkaLku2R",
+        "billing": {
+            "first_name": "Sebastian",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "email": "seba_pedreros@hotmail.com",
+            "phone": "+56975914169"
+        },
+        "shipping": {
+            "first_name": "Valentina escobar",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "phone": ""
+        },
+        "payment_method": "transbank_webpay_plus_rest",
+        "payment_method_title": "Webpay Plus",
+        "transaction_id": "",
+        "customer_ip_address": "186.175.0.140",
+        "customer_user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/23C71 Instagram 415.1.0.24.68 (iPhone13,4; iOS 26_2_1; es_LA; es; scale=3.00; 1284x2778; IABMV\/1; 876143997) Safari\/604.1",
+        "created_via": "checkout",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": "2026-02-11T14:51:32",
+        "cart_hash": "594b640aa45d814ffe91d3ae670b006a",
+        "number": "990628",
+        "meta_data": [
+            {
+                "id": 33786,
+                "key": "_googlesitekit_ga_purchase_event_tracked",
+                "value": "1"
+            },
+            {
+                "id": 33748,
+                "key": "_orddd_lite_timeslot_timestamp",
+                "value": "1770973200"
+            },
+            {
+                "id": 33745,
+                "key": "_orddd_lite_timestamp",
+                "value": "1770940800"
+            },
+            {
+                "id": 33747,
+                "key": "_orddd_time_slot",
+                "value": "09:00 - 13:00"
+            },
+            {
+                "id": 33785,
+                "key": "_pys_purchase_event_fired",
+                "value": "1"
+            },
+            {
+                "id": 33738,
+                "key": "_shipping_mensaje",
+                "value": "Feeeeliz 14f y que mejor juntitos! Gracias por elegirme todos estos a\u00f1os, eres mi hogar y mi mejor plan! Te amo mucho \u2764\ufe0f"
+            },
+            {
+                "id": 33739,
+                "key": "_shipping_observaciones",
+                "value": ""
+            },
+            {
+                "id": 33737,
+                "key": "_shipping_telefono",
+                "value": ""
+            },
+            {
+                "id": 33749,
+                "key": "_total_delivery_charges",
+                "value": "0"
+            },
+            {
+                "id": 33762,
+                "key": "_wc_order_attribution_device_type",
+                "value": "Mobile"
+            },
+            {
+                "id": 33753,
+                "key": "_wc_order_attribution_referrer",
+                "value": "https:\/\/l.instagram.com\/"
+            },
+            {
+                "id": 33760,
+                "key": "_wc_order_attribution_session_count",
+                "value": "1"
+            },
+            {
+                "id": 33757,
+                "key": "_wc_order_attribution_session_entry",
+                "value": "https:\/\/laflorestafloreria.cl\/especial-14\/"
+            },
+            {
+                "id": 33759,
+                "key": "_wc_order_attribution_session_pages",
+                "value": "8"
+            },
+            {
+                "id": 33758,
+                "key": "_wc_order_attribution_session_start_time",
+                "value": "2026-02-11 17:23:22"
+            },
+            {
+                "id": 33752,
+                "key": "_wc_order_attribution_source_type",
+                "value": "referral"
+            },
+            {
+                "id": 33761,
+                "key": "_wc_order_attribution_user_agent",
+                "value": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/23C71 Instagram 415.1.0.24.68 (iPhone13,4; iOS 26_2_1; es_LA; es; scale=3.00; 1284x2778; IABMV\/1; 876143997) Safari\/604.1"
+            },
+            {
+                "id": 33756,
+                "key": "_wc_order_attribution_utm_content",
+                "value": "\/"
+            },
+            {
+                "id": 33755,
+                "key": "_wc_order_attribution_utm_medium",
+                "value": "referral"
+            },
+            {
+                "id": 33754,
+                "key": "_wc_order_attribution_utm_source",
+                "value": "l.instagram.com"
+            },
+            {
+                "id": 33780,
+                "key": "amount",
+                "value": "44990"
+            },
+            {
+                "id": 33777,
+                "key": "authorizationCode",
+                "value": "513251"
+            },
+            {
+                "id": 33776,
+                "key": "buyOrder",
+                "value": "wc:82084ab1a684046e:990628"
+            },
+            {
+                "id": 33778,
+                "key": "cardNumber",
+                "value": "7592"
+            },
+            {
+                "id": 33744,
+                "key": "Fecha de env\u00edo o retiro",
+                "value": "13 Febrero, 2026"
+            },
+            {
+                "id": 33746,
+                "key": "Horario de entrega",
+                "value": "09:00 AM - 01:00 PM"
+            },
+            {
+                "id": 33781,
+                "key": "installmentsNumber",
+                "value": "0"
+            },
+            {
+                "id": 33740,
+                "key": "is_vat_exempt",
+                "value": "no"
+            },
+            {
+                "id": 33779,
+                "key": "paymentType",
+                "value": "D\u00e9bito"
+            },
+            {
+                "id": 33743,
+                "key": "pys_enrich_data",
+                "value": {
+                    "pys_landing": "https:\/\/laflorestafloreria.cl\/especial-14\/",
+                    "pys_source": "l.instagram.com",
+                    "pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "last_pys_landing": "https:\/\/laflorestafloreria.cl\/especial-14\/",
+                    "last_pys_source": "l.instagram.com",
+                    "last_pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "last_pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "pys_browser_time": "14-15|Wednesday|February"
+                }
+            },
+            {
+                "id": 33750,
+                "key": "pys_fb_cookie",
+                "value": {
+                    "fbc": "fb.1.1770830604517.PAZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGnDGh5exiJhu-8x_i2pv4pM0IpG0WurPQV5999P6d39zz7dMRmrk58qcJhKKc_aem_Lo8Pz6iNl2j3oOHeFDjuQQ",
+                    "fbp": "fb.1.1770830602696.9902344948"
+                }
+            },
+            {
+                "id": 33751,
+                "key": "shipping_mensaje",
+                "value": "Feeeeliz 14f y que mejor juntitos! Gracias por elegirme todos estos a\u00f1os, eres mi hogar y mi mejor plan! Te amo mucho \u2764\ufe0f"
+            },
+            {
+                "id": 33782,
+                "key": "transactionDate",
+                "value": "11-02-2026 14:50:12 -03:00"
+            },
+            {
+                "id": 33784,
+                "key": "transactionResponse",
+                "value": "{\"vci\":\"TSY\",\"status\":\"AUTHORIZED\",\"responseCode\":0,\"amount\":44990,\"authorizationCode\":\"513251\",\"paymentTypeCode\":\"VD\",\"accountingDate\":\"0211\",\"installmentsNumber\":0,\"installmentsAmount\":null,\"sessionId\":\"wc:sessionId:698cc153db44d:990628\",\"buyOrder\":\"wc:82084ab1a684046e:990628\",\"cardNumber\":\"7592\",\"cardDetail\":{\"card_number\":\"7592\"},\"transactionDate\":\"2026-02-11T17:50:12.548Z\",\"balance\":null}"
+            },
+            {
+                "id": 33775,
+                "key": "transactionStatus",
+                "value": "Autorizada"
+            },
+            {
+                "id": 33783,
+                "key": "webpay_transaction_id",
+                "value": "1378"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 1955,
+                "name": "Caja Julieta",
+                "product_id": 990464,
+                "variation_id": 0,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "37000",
+                "subtotal_tax": "0",
+                "total": "37000",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [],
+                "sku": "",
+                "price": 37000,
+                "image": {
+                    "id": "990465",
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2026\/02\/IMG_5466-scaled.jpeg"
+                },
+                "parent_name": null
+            },
+            {
+                "id": 1956,
+                "name": "Globo con helio coraz\u00f3n rojo",
+                "product_id": 990474,
+                "variation_id": 0,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "7990",
+                "subtotal_tax": "0",
+                "total": "7990",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [],
+                "sku": "",
+                "price": 7990,
+                "image": {
+                    "id": "990476",
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2026\/02\/IMG_5474-scaled.jpeg"
+                },
+                "parent_name": null
+            }
+        ],
+        "tax_lines": [],
+        "shipping_lines": [
+            {
+                "id": 1957,
+                "method_title": "Retiro en local",
+                "method_id": "local_pickup",
+                "instance_id": "2",
+                "total": "0",
+                "total_tax": "0",
+                "taxes": [],
+                "tax_status": "taxable",
+                "meta_data": [
+                    {
+                        "id": 24888,
+                        "key": "Art\u00edculos",
+                        "value": "Caja Julieta &times; 1, Globo con helio coraz\u00f3n rojo &times; 1",
+                        "display_key": "Art\u00edculos",
+                        "display_value": "Caja Julieta &times; 1, Globo con helio coraz\u00f3n rojo &times; 1"
+                    }
+                ]
+            }
+        ],
+        "fee_lines": [],
+        "coupon_lines": [],
+        "refunds": [],
+        "payment_url": "https:\/\/laflorestafloreria.cl\/checkout\/order-pay\/990628\/?pay_for_order=true&key=wc_order_y65sZhkaLku2R",
+        "is_editable": false,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2026-02-11T17:50:11",
+        "date_modified_gmt": "2026-02-11T17:51:47",
+        "date_completed_gmt": null,
+        "date_paid_gmt": "2026-02-11T17:51:32",
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders\/990628",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders"
+                }
+            ]
+        }
+    },
+    {
+        "id": 990627,
+        "parent_id": 0,
+        "status": "processing",
+        "currency": "CLP",
+        "version": "9.6.0",
+        "prices_include_tax": false,
+        "date_created": "2026-02-11T14:24:28",
+        "date_modified": "2026-02-11T14:24:52",
+        "discount_total": "0",
+        "discount_tax": "0",
+        "shipping_total": "0",
+        "shipping_tax": "0",
+        "cart_tax": "0",
+        "total": "60000",
+        "total_tax": "0",
+        "customer_id": 0,
+        "order_key": "wc_order_jc5ii5MmHw7oP",
+        "billing": {
+            "first_name": "Maximiliano Neumann",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "email": "mneumann1020@gmail.com",
+            "phone": "+56954028073"
+        },
+        "shipping": {
+            "first_name": "Antonia Weil",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "phone": ""
+        },
+        "payment_method": "transbank_webpay_plus_rest",
+        "payment_method_title": "Webpay Plus",
+        "transaction_id": "",
+        "customer_ip_address": "181.42.246.245",
+        "customer_user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/23C71 Instagram 416.0.0.26.68 (iPhone16,1; iOS 26_2_1; es_LA; es; scale=3.00; 1179x2556; IABMV\/1; 878272737) Safari\/604.1",
+        "created_via": "checkout",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": "2026-02-11T14:24:51",
+        "cart_hash": "b91dfac8ea84ec3f5f78fe607a9cfb33",
+        "number": "990627",
+        "meta_data": [
+            {
+                "id": 33724,
+                "key": "_billing_vat",
+                "value": ""
+            },
+            {
+                "id": 33698,
+                "key": "_orddd_lite_timeslot_timestamp",
+                "value": "1771059600"
+            },
+            {
+                "id": 33695,
+                "key": "_orddd_lite_timestamp",
+                "value": "1771027200"
+            },
+            {
+                "id": 33697,
+                "key": "_orddd_time_slot",
+                "value": "09:00 - 13:00"
+            },
+            {
+                "id": 33688,
+                "key": "_shipping_mensaje",
+                "value": "Love youuu!"
+            },
+            {
+                "id": 33689,
+                "key": "_shipping_observaciones",
+                "value": ""
+            },
+            {
+                "id": 33687,
+                "key": "_shipping_telefono",
+                "value": ""
+            },
+            {
+                "id": 33699,
+                "key": "_total_delivery_charges",
+                "value": "0"
+            },
+            {
+                "id": 33709,
+                "key": "_wc_order_attribution_device_type",
+                "value": "Mobile"
+            },
+            {
+                "id": 33707,
+                "key": "_wc_order_attribution_session_count",
+                "value": "1"
+            },
+            {
+                "id": 33704,
+                "key": "_wc_order_attribution_session_entry",
+                "value": "https:\/\/laflorestafloreria.cl\/"
+            },
+            {
+                "id": 33706,
+                "key": "_wc_order_attribution_session_pages",
+                "value": "27"
+            },
+            {
+                "id": 33705,
+                "key": "_wc_order_attribution_session_start_time",
+                "value": "2026-02-11 16:53:07"
+            },
+            {
+                "id": 33702,
+                "key": "_wc_order_attribution_source_type",
+                "value": "typein"
+            },
+            {
+                "id": 33708,
+                "key": "_wc_order_attribution_user_agent",
+                "value": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/23C71 Instagram 416.0.0.26.68 (iPhone16,1; iOS 26_2_1; es_LA; es; scale=3.00; 1179x2556; IABMV\/1; 878272737) Safari\/604.1"
+            },
+            {
+                "id": 33703,
+                "key": "_wc_order_attribution_utm_source",
+                "value": "(direct)"
+            },
+            {
+                "id": 33694,
+                "key": "Fecha de env\u00edo o retiro",
+                "value": "14 Febrero, 2026"
+            },
+            {
+                "id": 33696,
+                "key": "Horario de entrega",
+                "value": "09:00 AM - 01:00 PM"
+            },
+            {
+                "id": 33690,
+                "key": "is_vat_exempt",
+                "value": "no"
+            },
+            {
+                "id": 33693,
+                "key": "pys_enrich_data",
+                "value": {
+                    "pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "pys_source": "direct",
+                    "pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "last_pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "last_pys_source": "direct",
+                    "last_pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "last_pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "pys_browser_time": "14-15|Wednesday|February"
+                }
+            },
+            {
+                "id": 33700,
+                "key": "pys_fb_cookie",
+                "value": {
+                    "fbc": "fb.1.1770830463189.PAZXh0bgNhZW0CMTAAc3J0YwZhcHBfaWQPMTI0MDI0NTc0Mjg3NDE0AAGngEnAUlVm8JIaaSm34fgMagM1mSuIV6YfkYbL4jGVrJgBR8RShmOxFljOuKg_aem_OjmgjfadfL1ZvlHf5Lr2QA",
+                    "fbp": "fb.1.1770828787077.3428573332"
+                }
+            },
+            {
+                "id": 33701,
+                "key": "shipping_mensaje",
+                "value": "Love youuu!"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 1949,
+                "name": "Ramo Euforia",
+                "product_id": 990518,
+                "variation_id": 0,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "60000",
+                "subtotal_tax": "0",
+                "total": "60000",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [],
+                "sku": "",
+                "price": 60000,
+                "image": {
+                    "id": "988258",
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2025\/01\/WhatsApp-Image-2025-01-27-at-22.19.07.jpeg"
+                },
+                "parent_name": null
+            }
+        ],
+        "tax_lines": [],
+        "shipping_lines": [
+            {
+                "id": 1950,
+                "method_title": "Retiro en local",
+                "method_id": "local_pickup",
+                "instance_id": "2",
+                "total": "0",
+                "total_tax": "0",
+                "taxes": [],
+                "tax_status": "taxable",
+                "meta_data": [
+                    {
+                        "id": 24832,
+                        "key": "Art\u00edculos",
+                        "value": "Ramo Euforia &times; 1",
+                        "display_key": "Art\u00edculos",
+                        "display_value": "Ramo Euforia &times; 1"
+                    }
+                ]
+            }
+        ],
+        "fee_lines": [],
+        "coupon_lines": [],
+        "refunds": [],
+        "payment_url": "https:\/\/laflorestafloreria.cl\/checkout\/order-pay\/990627\/?pay_for_order=true&key=wc_order_jc5ii5MmHw7oP",
+        "is_editable": false,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2026-02-11T17:24:28",
+        "date_modified_gmt": "2026-02-11T17:24:52",
+        "date_completed_gmt": null,
+        "date_paid_gmt": "2026-02-11T17:24:51",
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders\/990627",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders"
+                }
+            ]
+        }
+    },
+    {
+        "id": 990626,
+        "parent_id": 0,
+        "status": "processing",
+        "currency": "CLP",
+        "version": "9.6.0",
+        "prices_include_tax": false,
+        "date_created": "2026-02-11T14:10:09",
+        "date_modified": "2026-02-11T14:30:25",
+        "discount_total": "0",
+        "discount_tax": "0",
+        "shipping_total": "4000",
+        "shipping_tax": "0",
+        "cart_tax": "0",
+        "total": "34000",
+        "total_tax": "0",
+        "customer_id": 0,
+        "order_key": "wc_order_t5pgBlWc9rxAl",
+        "billing": {
+            "first_name": "Alexis",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "email": "alexisrebolledo2696@gmail.com",
+            "phone": "+56981703027"
+        },
+        "shipping": {
+            "first_name": "Yoselyne Cid",
+            "last_name": "",
+            "company": "",
+            "address_1": "Las Azaleas 746, los angeles",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "phone": ""
+        },
+        "payment_method": "transbank_webpay_plus_rest",
+        "payment_method_title": "Webpay Plus",
+        "transaction_id": "",
+        "customer_ip_address": "181.42.197.64",
+        "customer_user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_2_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) CriOS\/144.0.7559.95 Mobile\/15E148 Safari\/604.1",
+        "created_via": "checkout",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": "2026-02-11T14:11:16",
+        "cart_hash": "aa149c4b1688f072b28d6faddb84baba",
+        "number": "990626",
+        "meta_data": [
+            {
+                "id": 33686,
+                "key": "_googlesitekit_ga_purchase_event_tracked",
+                "value": "1"
+            },
+            {
+                "id": 33661,
+                "key": "_orddd_lite_timeslot_timestamp",
+                "value": "1771077600"
+            },
+            {
+                "id": 33658,
+                "key": "_orddd_lite_timestamp",
+                "value": "1771027200"
+            },
+            {
+                "id": 33660,
+                "key": "_orddd_time_slot",
+                "value": "14:00 - 19:00"
+            },
+            {
+                "id": 33685,
+                "key": "_pys_purchase_event_fired",
+                "value": "1"
+            },
+            {
+                "id": 33651,
+                "key": "_shipping_mensaje",
+                "value": ""
+            },
+            {
+                "id": 33652,
+                "key": "_shipping_observaciones",
+                "value": ""
+            },
+            {
+                "id": 33650,
+                "key": "_shipping_telefono",
+                "value": "+56 9 8457 6074"
+            },
+            {
+                "id": 33662,
+                "key": "_total_delivery_charges",
+                "value": "0"
+            },
+            {
+                "id": 33674,
+                "key": "_wc_order_attribution_device_type",
+                "value": "Mobile"
+            },
+            {
+                "id": 33666,
+                "key": "_wc_order_attribution_referrer",
+                "value": "https:\/\/www.google.com\/"
+            },
+            {
+                "id": 33672,
+                "key": "_wc_order_attribution_session_count",
+                "value": "1"
+            },
+            {
+                "id": 33669,
+                "key": "_wc_order_attribution_session_entry",
+                "value": "https:\/\/laflorestafloreria.cl\/"
+            },
+            {
+                "id": 33671,
+                "key": "_wc_order_attribution_session_pages",
+                "value": "5"
+            },
+            {
+                "id": 33670,
+                "key": "_wc_order_attribution_session_start_time",
+                "value": "2026-02-11 17:08:13"
+            },
+            {
+                "id": 33665,
+                "key": "_wc_order_attribution_source_type",
+                "value": "organic"
+            },
+            {
+                "id": 33673,
+                "key": "_wc_order_attribution_user_agent",
+                "value": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_2_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) CriOS\/144.0.7559.95 Mobile\/15E148 Safari\/604.1"
+            },
+            {
+                "id": 33668,
+                "key": "_wc_order_attribution_utm_medium",
+                "value": "organic"
+            },
+            {
+                "id": 33667,
+                "key": "_wc_order_attribution_utm_source",
+                "value": "google"
+            },
+            {
+                "id": 33680,
+                "key": "amount",
+                "value": "34000"
+            },
+            {
+                "id": 33677,
+                "key": "authorizationCode",
+                "value": "442991"
+            },
+            {
+                "id": 33676,
+                "key": "buyOrder",
+                "value": "wc:5d6754c027b5dad2:990626"
+            },
+            {
+                "id": 33678,
+                "key": "cardNumber",
+                "value": "4409"
+            },
+            {
+                "id": 33657,
+                "key": "Fecha de env\u00edo o retiro",
+                "value": "14 Febrero, 2026"
+            },
+            {
+                "id": 33659,
+                "key": "Horario de entrega",
+                "value": "02:00 PM - 07:00 PM"
+            },
+            {
+                "id": 33681,
+                "key": "installmentsNumber",
+                "value": "0"
+            },
+            {
+                "id": 33653,
+                "key": "is_vat_exempt",
+                "value": "no"
+            },
+            {
+                "id": 33679,
+                "key": "paymentType",
+                "value": "D\u00e9bito"
+            },
+            {
+                "id": 33656,
+                "key": "pys_enrich_data",
+                "value": {
+                    "pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "pys_source": "google.com",
+                    "pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "last_pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "last_pys_source": "google.com",
+                    "last_pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "last_pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "pys_browser_time": "14-15|Wednesday|February"
+                }
+            },
+            {
+                "id": 33663,
+                "key": "pys_fb_cookie",
+                "value": {
+                    "fbc": null,
+                    "fbp": "fb.1.1770829693129.5780101469"
+                }
+            },
+            {
+                "id": 33664,
+                "key": "shipping_telefono",
+                "value": "+56 9 8457 6074"
+            },
+            {
+                "id": 33682,
+                "key": "transactionDate",
+                "value": "11-02-2026 14:10:10 -03:00"
+            },
+            {
+                "id": 33684,
+                "key": "transactionResponse",
+                "value": "{\"vci\":\"TSY\",\"status\":\"AUTHORIZED\",\"responseCode\":0,\"amount\":34000,\"authorizationCode\":\"442991\",\"paymentTypeCode\":\"VD\",\"accountingDate\":\"0211\",\"installmentsNumber\":0,\"installmentsAmount\":null,\"sessionId\":\"wc:sessionId:698cb7f1ca1f3:990626\",\"buyOrder\":\"wc:5d6754c027b5dad2:990626\",\"cardNumber\":\"4409\",\"cardDetail\":{\"card_number\":\"4409\"},\"transactionDate\":\"2026-02-11T17:10:10.387Z\",\"balance\":null}"
+            },
+            {
+                "id": 33675,
+                "key": "transactionStatus",
+                "value": "Autorizada"
+            },
+            {
+                "id": 33683,
+                "key": "webpay_transaction_id",
+                "value": "1374"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 1947,
+                "name": "Ramo Circular 14 F - S - 10 Varas",
+                "product_id": 990455,
+                "variation_id": 990533,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "30000",
+                "subtotal_tax": "0",
+                "total": "30000",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [
+                    {
+                        "id": 24811,
+                        "key": "pa_select-size",
+                        "value": "s-10-varas",
+                        "display_key": "Select size",
+                        "display_value": "S - 10 Varas"
+                    }
+                ],
+                "sku": "",
+                "price": 30000,
+                "image": {
+                    "id": 989239,
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2025\/06\/Diseno-sin-titulo.png"
+                },
+                "parent_name": "Ramo Circular 14 F"
+            }
+        ],
+        "tax_lines": [],
+        "shipping_lines": [
+            {
+                "id": 1948,
+                "method_title": "Los \u00c1ngeles: Zona urbana",
+                "method_id": "flat_rate",
+                "instance_id": "1",
+                "total": "4000",
+                "total_tax": "0",
+                "taxes": [],
+                "tax_status": "taxable",
+                "meta_data": [
+                    {
+                        "id": 24817,
+                        "key": "Art\u00edculos",
+                        "value": "Ramo Circular 14 F - S - 10 Varas &times; 1",
+                        "display_key": "Art\u00edculos",
+                        "display_value": "Ramo Circular 14 F - S - 10 Varas &times; 1"
+                    }
+                ]
+            }
+        ],
+        "fee_lines": [],
+        "coupon_lines": [],
+        "refunds": [],
+        "payment_url": "https:\/\/laflorestafloreria.cl\/checkout\/order-pay\/990626\/?pay_for_order=true&key=wc_order_t5pgBlWc9rxAl",
+        "is_editable": false,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2026-02-11T17:10:09",
+        "date_modified_gmt": "2026-02-11T17:30:25",
+        "date_completed_gmt": null,
+        "date_paid_gmt": "2026-02-11T17:11:16",
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders\/990626",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders"
+                }
+            ]
+        }
+    },
+    {
+        "id": 990625,
+        "parent_id": 0,
+        "status": "processing",
+        "currency": "CLP",
+        "version": "9.6.0",
+        "prices_include_tax": false,
+        "date_created": "2026-02-11T13:56:04",
+        "date_modified": "2026-02-11T14:00:10",
+        "discount_total": "0",
+        "discount_tax": "0",
+        "shipping_total": "0",
+        "shipping_tax": "0",
+        "cart_tax": "0",
+        "total": "49990",
+        "total_tax": "0",
+        "customer_id": 0,
+        "order_key": "wc_order_E74XKmo8sgonE",
+        "billing": {
+            "first_name": "Antonio Weisser",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "email": "lweisserp@gmail.com",
+            "phone": "+56994303693"
+        },
+        "shipping": {
+            "first_name": "Carolina Ordo\u00f1ez",
+            "last_name": "",
+            "company": "",
+            "address_1": "",
+            "address_2": "",
+            "city": "",
+            "state": "",
+            "postcode": "",
+            "country": "",
+            "phone": ""
+        },
+        "payment_method": "transbank_webpay_plus_rest",
+        "payment_method_title": "Webpay Plus",
+        "transaction_id": "",
+        "customer_ip_address": "200.29.187.165",
+        "customer_user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 Edg\/144.0.0.0",
+        "created_via": "checkout",
+        "customer_note": "",
+        "date_completed": null,
+        "date_paid": "2026-02-11T13:56:32",
+        "cart_hash": "40faab6e8454364e393c030969fd0a87",
+        "number": "990625",
+        "meta_data": [
+            {
+                "id": 33649,
+                "key": "_billing_vat",
+                "value": ""
+            },
+            {
+                "id": 33647,
+                "key": "_googlesitekit_ga_purchase_event_tracked",
+                "value": "1"
+            },
+            {
+                "id": 33622,
+                "key": "_orddd_lite_timeslot_timestamp",
+                "value": "1770973200"
+            },
+            {
+                "id": 33619,
+                "key": "_orddd_lite_timestamp",
+                "value": "1770940800"
+            },
+            {
+                "id": 33621,
+                "key": "_orddd_time_slot",
+                "value": "09:00 AM - 01:00 PM"
+            },
+            {
+                "id": 33646,
+                "key": "_pys_purchase_event_fired",
+                "value": "1"
+            },
+            {
+                "id": 33612,
+                "key": "_shipping_mensaje",
+                "value": "\u00a1Gracias por todo lo maravilloso que hemos vivido! Feliz 14F"
+            },
+            {
+                "id": 33613,
+                "key": "_shipping_observaciones",
+                "value": ""
+            },
+            {
+                "id": 33611,
+                "key": "_shipping_telefono",
+                "value": ""
+            },
+            {
+                "id": 33623,
+                "key": "_total_delivery_charges",
+                "value": "0"
+            },
+            {
+                "id": 33635,
+                "key": "_wc_order_attribution_device_type",
+                "value": "Desktop"
+            },
+            {
+                "id": 33627,
+                "key": "_wc_order_attribution_referrer",
+                "value": "https:\/\/www.google.com\/"
+            },
+            {
+                "id": 33633,
+                "key": "_wc_order_attribution_session_count",
+                "value": "1"
+            },
+            {
+                "id": 33630,
+                "key": "_wc_order_attribution_session_entry",
+                "value": "https:\/\/laflorestafloreria.cl\/"
+            },
+            {
+                "id": 33632,
+                "key": "_wc_order_attribution_session_pages",
+                "value": "7"
+            },
+            {
+                "id": 33631,
+                "key": "_wc_order_attribution_session_start_time",
+                "value": "2026-02-11 16:50:40"
+            },
+            {
+                "id": 33626,
+                "key": "_wc_order_attribution_source_type",
+                "value": "organic"
+            },
+            {
+                "id": 33634,
+                "key": "_wc_order_attribution_user_agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 Edg\/144.0.0.0"
+            },
+            {
+                "id": 33629,
+                "key": "_wc_order_attribution_utm_medium",
+                "value": "organic"
+            },
+            {
+                "id": 33628,
+                "key": "_wc_order_attribution_utm_source",
+                "value": "google"
+            },
+            {
+                "id": 33641,
+                "key": "amount",
+                "value": "49990"
+            },
+            {
+                "id": 33638,
+                "key": "authorizationCode",
+                "value": "003554"
+            },
+            {
+                "id": 33637,
+                "key": "buyOrder",
+                "value": "wc:e4ef17b80de994e5:990625"
+            },
+            {
+                "id": 33639,
+                "key": "cardNumber",
+                "value": "2447"
+            },
+            {
+                "id": 33618,
+                "key": "Fecha de env\u00edo o retiro",
+                "value": "11 Febrero, 2026"
+            },
+            {
+                "id": 33620,
+                "key": "Horario de entrega",
+                "value": "02:00 PM - 07:00 PM"
+            },
+            {
+                "id": 33642,
+                "key": "installmentsNumber",
+                "value": "0"
+            },
+            {
+                "id": 33614,
+                "key": "is_vat_exempt",
+                "value": "no"
+            },
+            {
+                "id": 33640,
+                "key": "paymentType",
+                "value": "D\u00e9bito"
+            },
+            {
+                "id": 33617,
+                "key": "pys_enrich_data",
+                "value": {
+                    "pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "pys_source": "google.com",
+                    "pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "last_pys_landing": "https:\/\/laflorestafloreria.cl\/",
+                    "last_pys_source": "google.com",
+                    "last_pys_utm": "utm_source:undefined|utm_medium:undefined|utm_campaign:undefined|utm_term:undefined|utm_content:undefined",
+                    "last_pys_utm_id": "fbadid:undefined|gadid:undefined|padid:undefined|bingid:undefined",
+                    "pys_browser_time": "13-14|Wednesday|February"
+                }
+            },
+            {
+                "id": 33624,
+                "key": "pys_fb_cookie",
+                "value": {
+                    "fbc": null,
+                    "fbp": "fb.1.1770828640607.9792942114"
+                }
+            },
+            {
+                "id": 33625,
+                "key": "shipping_mensaje",
+                "value": "\u00a1Gracias por todo lo maravilloso que hemos vivido! Feliz 14F"
+            },
+            {
+                "id": 33643,
+                "key": "transactionDate",
+                "value": "11-02-2026 13:56:05 -03:00"
+            },
+            {
+                "id": 33645,
+                "key": "transactionResponse",
+                "value": "{\"vci\":null,\"status\":\"AUTHORIZED\",\"responseCode\":0,\"amount\":49990,\"authorizationCode\":\"003554\",\"paymentTypeCode\":\"VD\",\"accountingDate\":\"0211\",\"installmentsNumber\":0,\"installmentsAmount\":null,\"sessionId\":\"wc:sessionId:698cb4a469758:990625\",\"buyOrder\":\"wc:e4ef17b80de994e5:990625\",\"cardNumber\":\"2447\",\"cardDetail\":{\"card_number\":\"2447\"},\"transactionDate\":\"2026-02-11T16:56:05.019Z\",\"balance\":null}"
+            },
+            {
+                "id": 33636,
+                "key": "transactionStatus",
+                "value": "Autorizada"
+            },
+            {
+                "id": 33644,
+                "key": "webpay_transaction_id",
+                "value": "1373"
+            }
+        ],
+        "line_items": [
+            {
+                "id": 1944,
+                "name": "Ramo Circular 14 F - M - 15 Varas",
+                "product_id": 990455,
+                "variation_id": 990532,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "42000",
+                "subtotal_tax": "0",
+                "total": "42000",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [
+                    {
+                        "id": 24786,
+                        "key": "pa_select-size",
+                        "value": "m-15-varas",
+                        "display_key": "Select size",
+                        "display_value": "M - 15 Varas"
+                    }
+                ],
+                "sku": "",
+                "price": 42000,
+                "image": {
+                    "id": 989239,
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2025\/06\/Diseno-sin-titulo.png"
+                },
+                "parent_name": "Ramo Circular 14 F"
+            },
+            {
+                "id": 1945,
+                "name": "Globo con helio coraz\u00f3n rojo",
+                "product_id": 990474,
+                "variation_id": 0,
+                "quantity": 1,
+                "tax_class": "",
+                "subtotal": "7990",
+                "subtotal_tax": "0",
+                "total": "7990",
+                "total_tax": "0",
+                "taxes": [],
+                "meta_data": [],
+                "sku": "",
+                "price": 7990,
+                "image": {
+                    "id": "990476",
+                    "src": "https:\/\/laflorestafloreria.cl\/wp-content\/uploads\/2026\/02\/IMG_5474-scaled.jpeg"
+                },
+                "parent_name": null
+            }
+        ],
+        "tax_lines": [],
+        "shipping_lines": [
+            {
+                "id": 1946,
+                "method_title": "Retiro en local",
+                "method_id": "local_pickup",
+                "instance_id": "2",
+                "total": "0",
+                "total_tax": "0",
+                "taxes": [],
+                "tax_status": "taxable",
+                "meta_data": [
+                    {
+                        "id": 24801,
+                        "key": "Art\u00edculos",
+                        "value": "Ramo Circular 14 F - M - 15 Varas &times; 1, Globo con helio coraz\u00f3n rojo &times; 1",
+                        "display_key": "Art\u00edculos",
+                        "display_value": "Ramo Circular 14 F - M - 15 Varas &times; 1, Globo con helio coraz\u00f3n rojo &times; 1"
+                    }
+                ]
+            }
+        ],
+        "fee_lines": [],
+        "coupon_lines": [],
+        "refunds": [],
+        "payment_url": "https:\/\/laflorestafloreria.cl\/checkout\/order-pay\/990625\/?pay_for_order=true&key=wc_order_E74XKmo8sgonE",
+        "is_editable": false,
+        "needs_payment": false,
+        "needs_processing": true,
+        "date_created_gmt": "2026-02-11T16:56:04",
+        "date_modified_gmt": "2026-02-11T17:00:10",
+        "date_completed_gmt": null,
+        "date_paid_gmt": "2026-02-11T16:56:32",
+        "currency_symbol": "$",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders\/990625",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/laflorestafloreria.cl\/wp-json\/wc\/v3\/orders"
+                }
+            ]
+        }
+    }
+]
